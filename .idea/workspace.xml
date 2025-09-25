@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5732d167-0930-4bdc-b27f-71c238699d30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/coke/app/src/main/java/com/example/lottos/star" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coke/app/src/main/java/com/example/lottos/star" beforeDir="false" afterPath="$PROJECT_DIR$/coke/app/src/main/java/com/example/lottos/star" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "yuntian",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/binah/Documents/GitHub",
     "settings.editor.selected.configurable": "editor.preferences.import"
   },
   "keyToStringList": {
