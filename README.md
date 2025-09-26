@@ -1,1 +1,3 @@
 # lottos
+
+ccid: chenan1
